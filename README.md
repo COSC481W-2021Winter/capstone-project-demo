@@ -1,2 +1,2 @@
-# capstone-project-demo
-This is a demo project for the capstone project.
+# Project D
+This is a demo project for this capstone course.
